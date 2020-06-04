@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Engineer | Author | Blogger
+role: Software Engineer | Author
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
     url: "https://www.pluralsight.com/authors/vikash-sharma"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Go to Scala Person | Pluralsight Author | Blogger
+bio: Go to Scala Person | Pluralsight Author
 
 interests:
   - Distributed Systems
@@ -67,6 +67,4 @@ user_groups:
   - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Vikash Sharma is a developer, trainer and open source technology evangelist. He has invested a large amount of time learning and implementing Scala code and authored video courses for Scala. He has authored a beginner's book on Scala named Learning Scala Programming. He works as a software developer at Singapore Exchange Ltd.
