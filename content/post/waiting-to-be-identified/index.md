@@ -7,9 +7,9 @@ summary: "Identity is another cognitive shortcut that helps our brain make other
 authors: ["Vikash Sharma"]
 tags: ["cognitive", "psychology", "decision-making"]
 categories: ["psychology"]
-date: 2020-06-05T18:27:49+08:00
+date: 2019-12-03T18:27:49+08:00
 lastmod: 2020-06-05T18:27:49+08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
