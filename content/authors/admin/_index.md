@@ -47,7 +47,7 @@ social:
     link: https://twitter.com/vi_ka_sh
   - icon: github
     icon_pack: fab
-    link: https://github.com/vi_kas
+    link: https://github.com/vi-kas
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/vikasharma1/
